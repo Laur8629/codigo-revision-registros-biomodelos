@@ -16,12 +16,20 @@ Este repositorio contiene herramientas para la validación y revisión de regist
 
 ## Requisitos
 
-- **R**: Se requiere tener instalado R para ejecutar el script de validación. Puedes descargarlo desde [CRAN](https://cran.r-project.org/).
+- **R**: Se requiere tener instalado R 4.3.3 o superior para ejecutar el script de validación. Puedes descargarlo desde [CRAN](https://cran.r-project.org/).
 
 - **Paquetes de R**: Asegúrate de tener instalados los siguientes paquetes necesarios para la ejecución del script:
 
   ```r
-  install.packages(c("dplyr", "readr", "lubridate"))
+  tidyverse >= 2.0.0
+  readxl >= 1.4.0
+  stringr >= 1.5.0
+  lubridate >= 1.9.0
+  CoordinateCleaner >= 2.0-20
+  sf >= 1.0-0
+  janitor >= 2.2.0
+  here >= 1.0.0
+
   ```
 
 ## Uso
