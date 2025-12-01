@@ -87,3 +87,9 @@ Si usas este software en tu investigación, por favor cítalo así:
 }
 
 ```
+
+## Autores
+Gerencia de Información Científica - Dirección de conocimiento - Instituto de Investigación de Recursos Biológicos Alexander von Humboldt - Colombia
+
+Laura Sofia Garcia - [Laur8629](./https://github.com/Laur8629)
+Nerieth Goretti Leuro Robles - [goreleuro94](./(https://github.com/goreleuro94))
