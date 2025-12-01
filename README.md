@@ -68,13 +68,14 @@ El detalle de las citas utilizadas en el proyecto está en el siguiente archivo:
 Si usas este software en tu investigación, por favor cítalo así:
 
 ```bibtex
-@software{numero_biomodelos,
-  author       = {Garcia, Laura},
-  title        = {Numero de Especies BioModelos},
+@software{validacion_registros_biomodelos,
+  author       = {García, Laura and Leuro, Nerieth},
+  title        = {Código para la validación de registros BioModelos},
   year         = {2025},
-  publisher    = {Zenodo},
-  version      = {0.1.0},
-  doi          = {https://doi.org/10.5281/zenodo.17038514},
-  url          = {https://github.com/Laur8629/Numero-de-especies-BioModelos}
+  publisher    = {GitHub},
+  version      = {1.0.0},
+  url          = {https://github.com/Laur8629/codigo-revision-registros},
+  note         = {Archivo principal: codigo_validar_registros.R}
 }
+
 ```
