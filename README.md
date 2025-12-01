@@ -10,7 +10,7 @@ Este repositorio contiene herramientas para la validación y revisión de regist
   - **Validación de Campos**: Verifica la presencia y el formato correcto de los campos requeridos, como nombres científicos, coordenadas geográficas y fechas de recolección.
   - **Detección de Duplicados**: Identifica registros duplicados basados en criterios como coordenadas y fecha de recolección.
   - **Verificación de Coordenadas**: Comprueba que las coordenadas geográficas estén dentro de los límites permitidos y no correspondan a ubicaciones improbables.
-  - **Generación de Informe**: Produce un informe detallado en formato CSV con los hallazgos de la validación, indicando los registros que requieren corrección.
+  - **Generación de Informe**: Produce un informe detallado en formato Excel con los hallazgos de la validación, indicando los registros que requieren corrección.
 
 - **`Plantilla_campos_registros_BioModelos.xlsx`**: Plantilla en Excel que define los campos requeridos y su formato para los registros de especies en BioModelos. Se recomienda usar esta plantilla para estructurar los datos antes de la validación.
 
