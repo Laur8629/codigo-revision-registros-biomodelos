@@ -53,7 +53,28 @@ Al ejecutar el script, podrían aparecer algunos errores comunes. A continuació
 | `Coordinates outside valid range` | Algunas coordenadas están fuera del rango permitido. | Revisa que los valores de latitud y longitud sean correctos. |
 
 
-## Contacto
+## 📜 Licencia
 
-Para cualquier consulta o sugerencia, por favor contacta a biomodelos@humboldt.org.co.
+Este proyecto está licenciado bajo **MIT License**.  
+Consulta [LICENSE](./LICENSE) para más información.
 
+---
+
+## 📖 Citación
+El detalle de las citas utilizadas en el proyecto está en el siguiente archivo:
+
+- [CITATION.cff](./CITATION.cff)
+
+Si usas este software en tu investigación, por favor cítalo así:
+
+```bibtex
+@software{numero_biomodelos,
+  author       = {Garcia, Laura},
+  title        = {Numero de Especies BioModelos},
+  year         = {2025},
+  publisher    = {Zenodo},
+  version      = {0.1.0},
+  doi          = {https://doi.org/10.5281/zenodo.17038514},
+  url          = {https://github.com/Laur8629/Numero-de-especies-BioModelos}
+}
+```
